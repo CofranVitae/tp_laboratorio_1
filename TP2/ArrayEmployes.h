@@ -1,5 +1,5 @@
 #include "input.h"
-#define LENEMPLOYEES 5
+#define LENEMPLOYEES 1000
 #define EMPTY 0
 #define FULL 1
 
