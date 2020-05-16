@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1589617763 source:c:\users\franco\desktop\nueva carpeta\trabajo practico 2\input.c
+	"input.h"
+
+1589622809 c:\users\franco\desktop\nueva carpeta\trabajo practico 2\input.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589623633 source:c:\users\franco\desktop\nueva carpeta\trabajo practico 2\arrayemployees.c
+	"ArrayEmployes.h"
+
+1589622367 c:\users\franco\desktop\nueva carpeta\trabajo practico 2\arrayemployes.h
+	"input.h"
+
+1589623614 source:c:\users\franco\desktop\nueva carpeta\trabajo practico 2\main.c
+	"ArrayEmployes.h"
+
+1589623633 source:c:\users\franco\desktop\tp n2\arrayemployees.c
+	"ArrayEmployes.h"
+
+1589622367 c:\users\franco\desktop\tp n2\arrayemployes.h
+	"input.h"
+
+1589622809 c:\users\franco\desktop\tp n2\input.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589617763 source:c:\users\franco\desktop\tp n2\input.c
+	"input.h"
+
+1589623614 source:c:\users\franco\desktop\tp n2\main.c
+	"ArrayEmployes.h"
+
+1589623633 source:c:\users\franco\desktop\tp2\arrayemployees.c
+	"ArrayEmployes.h"
+
+1589622367 c:\users\franco\desktop\tp2\arrayemployes.h
+	"input.h"
+
+1589622809 c:\users\franco\desktop\tp2\input.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589617763 source:c:\users\franco\desktop\tp2\input.c
+	"input.h"
+
+1589623614 source:c:\users\franco\desktop\tp2\main.c
+	"ArrayEmployes.h"
+
