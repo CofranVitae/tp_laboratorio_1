@@ -1,0 +1,493 @@
+# depslib dependency file v1.0
+1592577500 source:c:\users\franco\desktop\tp4\likedlist\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../testing/inc/main_test.h"
+	"../inc/LinkedList.h"
+
+1560475730 c:\users\franco\desktop\tp4\likedlist\testing\inc\main_test.h
+
+1560475730 c:\users\franco\desktop\tp4\likedlist\inc\linkedlist.h
+
+1560475730 source:c:\users\franco\desktop\tp4\likedlist\testing\src\addnodetest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560475730 c:\users\franco\desktop\tp4\likedlist\testing\utest.h
+
+1560475730 c:\users\franco\desktop\tp4\likedlist\testing\inc\employee.h
+
+1560475730 source:c:\users\franco\desktop\tp4\likedlist\testing\src\addtest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560475730 source:c:\users\franco\desktop\tp4\likedlist\testing\src\cleartest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560475730 source:c:\users\franco\desktop\tp4\likedlist\testing\src\clonetest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560475730 source:c:\users\franco\desktop\tp4\likedlist\testing\src\containsalltest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560475730 source:c:\users\franco\desktop\tp4\likedlist\testing\src\containstest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560475730 source:c:\users\franco\desktop\tp4\likedlist\testing\src\deletelinkedlisttest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560475730 source:c:\users\franco\desktop\tp4\likedlist\testing\src\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../inc/Employee.h"
+
+1560475730 source:c:\users\franco\desktop\tp4\likedlist\testing\src\getnodetest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560475730 source:c:\users\franco\desktop\tp4\likedlist\testing\src\gettest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560475730 source:c:\users\franco\desktop\tp4\likedlist\testing\src\indexoftest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560475730 source:c:\users\franco\desktop\tp4\likedlist\testing\src\isemptytest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560475730 source:c:\users\franco\desktop\tp4\likedlist\testing\src\lentest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560541120 source:c:\users\franco\desktop\tp4\likedlist\testing\src\main_test.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	"../inc/newTest.h"
+	"../inc/addTest.h"
+	"../inc/getNodeTest.h"
+	"../inc/addNodeTest.h"
+	"../inc/deleteLinkedListTest.h"
+	"../inc/lenTest.h"
+	"../inc/getTest.h"
+	"../inc/containsTest.h"
+	"../inc/setTest.h"
+	"../inc/removeTest.h"
+	"../inc/clearTest.h"
+	"../inc/cloneTest.h"
+	"../inc/pushTest.h"
+	"../inc/indexOfTest.h"
+	"../inc/isEmptyTest.h"
+	"../inc/popTest.h"
+	"../inc/subListTest.h"
+	"../inc/containsAllTest.h"
+	"../inc/sortTest.h"
+
+1560475730 c:\users\franco\desktop\tp4\likedlist\testing\inc\newtest.h
+
+1560475730 c:\users\franco\desktop\tp4\likedlist\testing\inc\addtest.h
+
+1560475730 c:\users\franco\desktop\tp4\likedlist\testing\inc\getnodetest.h
+
+1560475730 c:\users\franco\desktop\tp4\likedlist\testing\inc\addnodetest.h
+
+1560475730 c:\users\franco\desktop\tp4\likedlist\testing\inc\deletelinkedlisttest.h
+
+1560475730 c:\users\franco\desktop\tp4\likedlist\testing\inc\lentest.h
+
+1560475730 c:\users\franco\desktop\tp4\likedlist\testing\inc\gettest.h
+
+1560475730 c:\users\franco\desktop\tp4\likedlist\testing\inc\containstest.h
+
+1560475730 c:\users\franco\desktop\tp4\likedlist\testing\inc\settest.h
+
+1560541120 c:\users\franco\desktop\tp4\likedlist\testing\inc\removetest.h
+
+1560475730 c:\users\franco\desktop\tp4\likedlist\testing\inc\cleartest.h
+
+1560475730 c:\users\franco\desktop\tp4\likedlist\testing\inc\clonetest.h
+
+1560475730 c:\users\franco\desktop\tp4\likedlist\testing\inc\pushtest.h
+
+1560475730 c:\users\franco\desktop\tp4\likedlist\testing\inc\indexoftest.h
+
+1560475730 c:\users\franco\desktop\tp4\likedlist\testing\inc\isemptytest.h
+
+1560475730 c:\users\franco\desktop\tp4\likedlist\testing\inc\poptest.h
+
+1560475730 c:\users\franco\desktop\tp4\likedlist\testing\inc\sublisttest.h
+
+1560475730 c:\users\franco\desktop\tp4\likedlist\testing\inc\containsalltest.h
+
+1560475730 c:\users\franco\desktop\tp4\likedlist\testing\inc\sorttest.h
+
+1560475730 source:c:\users\franco\desktop\tp4\likedlist\testing\src\newtest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+
+1560475730 source:c:\users\franco\desktop\tp4\likedlist\testing\src\poptest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560475730 source:c:\users\franco\desktop\tp4\likedlist\testing\src\pushtest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1561991585 source:c:\users\franco\desktop\tp4\likedlist\testing\src\removetest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560475730 source:c:\users\franco\desktop\tp4\likedlist\testing\src\settest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560475730 source:c:\users\franco\desktop\tp4\likedlist\testing\src\sorttest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560475730 source:c:\users\franco\desktop\tp4\likedlist\testing\src\sublisttest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560475730 source:c:\users\franco\desktop\tp4\likedlist\testing\utest.c
+	"utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1593155499 source:c:\users\franco\desktop\tp4\likedlist\src\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../inc/LinkedList.h"
+
+1592577500 source:c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../testing/inc/main_test.h"
+	"../inc/LinkedList.h"
+
+1560475730 c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\inc\main_test.h
+
+1560475730 c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\inc\linkedlist.h
+
+1560475730 source:c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\src\addnodetest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560475730 c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\utest.h
+
+1560475730 c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\inc\employee.h
+
+1560475730 source:c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\src\addtest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560475730 source:c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\src\cleartest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560475730 source:c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\src\clonetest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560475730 source:c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\src\containsalltest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560475730 source:c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\src\containstest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560475730 source:c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\src\deletelinkedlisttest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560475730 source:c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\src\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../inc/Employee.h"
+
+1560475730 source:c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\src\getnodetest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560475730 source:c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\src\gettest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560475730 source:c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\src\indexoftest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560475730 source:c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\src\isemptytest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560475730 source:c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\src\lentest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560541120 source:c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\src\main_test.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	"../inc/newTest.h"
+	"../inc/addTest.h"
+	"../inc/getNodeTest.h"
+	"../inc/addNodeTest.h"
+	"../inc/deleteLinkedListTest.h"
+	"../inc/lenTest.h"
+	"../inc/getTest.h"
+	"../inc/containsTest.h"
+	"../inc/setTest.h"
+	"../inc/removeTest.h"
+	"../inc/clearTest.h"
+	"../inc/cloneTest.h"
+	"../inc/pushTest.h"
+	"../inc/indexOfTest.h"
+	"../inc/isEmptyTest.h"
+	"../inc/popTest.h"
+	"../inc/subListTest.h"
+	"../inc/containsAllTest.h"
+	"../inc/sortTest.h"
+
+1560475730 c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\inc\newtest.h
+
+1560475730 c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\inc\addtest.h
+
+1560475730 c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\inc\getnodetest.h
+
+1560475730 c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\inc\addnodetest.h
+
+1560475730 c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\inc\deletelinkedlisttest.h
+
+1560475730 c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\inc\lentest.h
+
+1560475730 c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\inc\gettest.h
+
+1560475730 c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\inc\containstest.h
+
+1560475730 c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\inc\settest.h
+
+1560541120 c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\inc\removetest.h
+
+1560475730 c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\inc\cleartest.h
+
+1560475730 c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\inc\clonetest.h
+
+1560475730 c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\inc\pushtest.h
+
+1560475730 c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\inc\indexoftest.h
+
+1560475730 c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\inc\isemptytest.h
+
+1560475730 c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\inc\poptest.h
+
+1560475730 c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\inc\sublisttest.h
+
+1560475730 c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\inc\containsalltest.h
+
+1560475730 c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\inc\sorttest.h
+
+1560475730 source:c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\src\newtest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+
+1560475730 source:c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\src\poptest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560475730 source:c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\src\pushtest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1561991585 source:c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\src\removetest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560475730 source:c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\src\settest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560475730 source:c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\src\sorttest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560475730 source:c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\src\sublisttest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560475730 source:c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\testing\utest.c
+	"utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1593158416 source:c:\users\franco\desktop\tp_laboratorio_1\tp4\tp4\likedlist\src\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../inc/LinkedList.h"
+

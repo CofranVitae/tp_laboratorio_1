@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1593017347 source:c:\users\franco\desktop\pruebas tp4\pruebastp4\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"Input.h"
+
+1592600811 c:\users\franco\desktop\pruebas tp4\pruebastp4\linkedlist.h
+
+1592600811 c:\users\franco\desktop\pruebas tp4\pruebastp4\employee.h
+
+1592600811 c:\users\franco\desktop\pruebas tp4\pruebastp4\parser.h
+
+1592600811 c:\users\franco\desktop\pruebas tp4\pruebastp4\input.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1593015901 source:c:\users\franco\desktop\pruebas tp4\pruebastp4\employee.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Employee.h"
+	"input.h"
+
+1592600811 source:c:\users\franco\desktop\pruebas tp4\pruebastp4\input.c
+	"input.h"
+
+1593012081 source:c:\users\franco\desktop\pruebas tp4\pruebastp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1593012081 c:\users\franco\desktop\pruebas tp4\pruebastp4\controller.h
+
+1592600811 source:c:\users\franco\desktop\pruebas tp4\pruebastp4\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1593155655 source:c:\users\franco\desktop\pruebas tp4\pruebastp4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593017347 source:c:\users\franco\desktop\tp_laboratorio_1\tp4\pruebas tp4 con tp3\pruebastp4\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"Input.h"
+
+1592600811 c:\users\franco\desktop\tp_laboratorio_1\tp4\pruebas tp4 con tp3\pruebastp4\linkedlist.h
+
+1592600811 c:\users\franco\desktop\tp_laboratorio_1\tp4\pruebas tp4 con tp3\pruebastp4\employee.h
+
+1592600811 c:\users\franco\desktop\tp_laboratorio_1\tp4\pruebas tp4 con tp3\pruebastp4\parser.h
+
+1592600811 c:\users\franco\desktop\tp_laboratorio_1\tp4\pruebas tp4 con tp3\pruebastp4\input.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1593015901 source:c:\users\franco\desktop\tp_laboratorio_1\tp4\pruebas tp4 con tp3\pruebastp4\employee.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Employee.h"
+	"input.h"
+
+1592600811 source:c:\users\franco\desktop\tp_laboratorio_1\tp4\pruebas tp4 con tp3\pruebastp4\input.c
+	"input.h"
+
+1593155958 source:c:\users\franco\desktop\tp_laboratorio_1\tp4\pruebas tp4 con tp3\pruebastp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1593155958 c:\users\franco\desktop\tp_laboratorio_1\tp4\pruebas tp4 con tp3\pruebastp4\controller.h
+
+1592600811 source:c:\users\franco\desktop\tp_laboratorio_1\tp4\pruebas tp4 con tp3\pruebastp4\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1593172087 source:c:\users\franco\desktop\tp_laboratorio_1\tp4\pruebas tp4 con tp3\pruebastp4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+

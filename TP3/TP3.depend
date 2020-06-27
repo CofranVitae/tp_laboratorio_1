@@ -291,3 +291,50 @@
 	<string.h>
 	<conio.h>
 
+1592034966 source:c:\users\franco\desktop\tp_laboratorio_1\tp3\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"Input.h"
+
+1591194196 c:\users\franco\desktop\tp_laboratorio_1\tp3\linkedlist.h
+
+1591625373 c:\users\franco\desktop\tp_laboratorio_1\tp3\employee.h
+
+1591795899 c:\users\franco\desktop\tp_laboratorio_1\tp3\parser.h
+
+1591199862 c:\users\franco\desktop\tp_laboratorio_1\tp3\input.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1591860791 source:c:\users\franco\desktop\tp_laboratorio_1\tp3\employee.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Employee.h"
+	"input.h"
+
+1591199923 source:c:\users\franco\desktop\tp_laboratorio_1\tp3\input.c
+	"input.h"
+
+1592034899 source:c:\users\franco\desktop\tp_laboratorio_1\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1591625373 c:\users\franco\desktop\tp_laboratorio_1\tp3\controller.h
+
+1591868363 source:c:\users\franco\desktop\tp_laboratorio_1\tp3\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
